@@ -62,8 +62,15 @@
 
 
 /* FLEX */
-.main {
+/* .main {
     display: flex;
     align-items: center;
     justify-content: center;
+} */
+
+/* GRID */
+
+.main {
+    display: grid;
+    place-items: center;
 }
